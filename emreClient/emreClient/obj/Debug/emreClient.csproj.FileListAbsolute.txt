@@ -1,0 +1,9 @@
+D:\Project\server-client\emreClient\emreClient\bin\Debug\emreClient.exe.config
+D:\Project\server-client\emreClient\emreClient\bin\Debug\emreClient.exe
+D:\Project\server-client\emreClient\emreClient\bin\Debug\emreClient.pdb
+D:\Project\server-client\emreClient\emreClient\obj\Debug\emreClient.csprojAssemblyReference.cache
+D:\Project\server-client\emreClient\emreClient\obj\Debug\emreClient.Properties.Resources.resources
+D:\Project\server-client\emreClient\emreClient\obj\Debug\emreClient.csproj.GenerateResource.cache
+D:\Project\server-client\emreClient\emreClient\obj\Debug\emreClient.csproj.CoreCompileInputs.cache
+D:\Project\server-client\emreClient\emreClient\obj\Debug\emreClient.exe
+D:\Project\server-client\emreClient\emreClient\obj\Debug\emreClient.pdb

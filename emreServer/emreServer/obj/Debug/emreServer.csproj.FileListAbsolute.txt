@@ -1,0 +1,7 @@
+D:\Project\server-client\emreServer\emreServer\bin\Debug\emreServer.exe.config
+D:\Project\server-client\emreServer\emreServer\bin\Debug\emreServer.exe
+D:\Project\server-client\emreServer\emreServer\bin\Debug\emreServer.pdb
+D:\Project\server-client\emreServer\emreServer\obj\Debug\emreServer.csprojAssemblyReference.cache
+D:\Project\server-client\emreServer\emreServer\obj\Debug\emreServer.csproj.CoreCompileInputs.cache
+D:\Project\server-client\emreServer\emreServer\obj\Debug\emreServer.exe
+D:\Project\server-client\emreServer\emreServer\obj\Debug\emreServer.pdb

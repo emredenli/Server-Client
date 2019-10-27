@@ -1,0 +1,10 @@
+C:\Users\denli\Desktop\TCPServerClientExample-master\TCP.Client\bin\Debug\TCP.Client.exe.config
+C:\Users\denli\Desktop\TCPServerClientExample-master\TCP.Client\bin\Debug\TCP.Client.exe
+C:\Users\denli\Desktop\TCPServerClientExample-master\TCP.Client\bin\Debug\TCP.Client.pdb
+C:\Users\denli\Desktop\TCPServerClientExample-master\TCP.Client\obj\Debug\TCP.Client.csprojAssemblyReference.cache
+C:\Users\denli\Desktop\TCPServerClientExample-master\TCP.Client\obj\Debug\TCP.Client.Form1.resources
+C:\Users\denli\Desktop\TCPServerClientExample-master\TCP.Client\obj\Debug\TCP.Client.Properties.Resources.resources
+C:\Users\denli\Desktop\TCPServerClientExample-master\TCP.Client\obj\Debug\TCP.Client.csproj.GenerateResource.cache
+C:\Users\denli\Desktop\TCPServerClientExample-master\TCP.Client\obj\Debug\TCP.Client.csproj.CoreCompileInputs.cache
+C:\Users\denli\Desktop\TCPServerClientExample-master\TCP.Client\obj\Debug\TCP.Client.exe
+C:\Users\denli\Desktop\TCPServerClientExample-master\TCP.Client\obj\Debug\TCP.Client.pdb
